@@ -1,4 +1,4 @@
-# 40-days-Python_Course
+# 40-days Python Course
 This repository contains the tasks completed as part of a 40-day online Python course. Each task is accompanied by its corresponding dataset and is designed to provide initial learning experiences with fundamental Python libraries and basic machine learning algorithms.
 
 Throughout the course, participants engage with diverse datasets, applying Python programming skills to manipulate, analyze, and visualize data. Additionally, tasks explore various machine learning concepts, offering hands-on experience in implementing algorithms for classification, regression, and other essential tasks.
